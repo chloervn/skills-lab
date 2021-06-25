@@ -1,3 +1,3 @@
 # svn-site
 
-[chloervn.github.io/svn-site](https://chloervn.github.io/svn-site/)
+[chloervn.github.io/skills-lab](https://chloervn.github.io/skills-lab/)
