@@ -1,5 +1,7 @@
 title: chloervn
 description: 🐈
-show_downloads: true
+show_downloads: false
+show_downloads: false
+is_project_page: false
 google_analytics:
 theme: jekyll-theme-caymanhttps://github.com/chloervn/svn-site/blob/main/_config.yml
